@@ -1,6 +1,6 @@
 # ILLUTRATOR
 
-### day 1_basic & selection
+### lecture 1_basic & selection
 ```
 - 이미지를 표현하는 방식
 vector-점과 점을 연결하여 수학적 공식에 의해 만들어진 선.
@@ -34,4 +34,24 @@ A : 직접선택도구
 ctrl + shift + B : bounding box
 ctrl + G : 그룹화
 ctrl + shift + G : 그룹해제
+```
+
+### lecture 2_figure
+```
+-면색상과 선색상 구분
+click + drag + 방향키 : 모서리 조절
+shift + drag : 정
+alt + drag : 가운데 축
+다각형 + 방향키 : 모서리 추가
+별모양 그릴 때 alt + shift : 반듯한 별
+arc 툴 + 방향키 : 곡선값 조절
+닫힌 패스 : 사방이 막혀있는 패스, 패스의 시작점과 끝점이 일치한다.
+열린 패스 : 패스의 시작점과 끝점이 일치하지 않는다.
+ctrl + y : 아웃라인 보기(외곽선)
+☉ : 모서리의 둥근 정도를 조절
+ctrl + f10 : stroke --> 선 조절
+shift + ctrl + ] : bring to front
+ctrl + ] : brint forward
+shift + ctrl + [ : send to back
+ctrl + [ : send backward
 ```
