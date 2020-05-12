@@ -55,3 +55,15 @@ ctrl + ] : brint forward
 shift + ctrl + [ : send to back
 ctrl + [ : send backward
 ```
+
+### lecture 3_TransForm
+```
+select + rotate -> alt + click(축을 선택) : 회전하기
+ctrl + d : 연속 복사
+scale tool + alt + click : 수치로 크기를 조절
+uniform/ non-uniform : 정비례 / 가로 세로의 비율 조절
+scale stroke & effects : 객체와 선의 크기를 조절
+reflect tool + alt: 축이 되는 지점을 클릭 -> 반전
+shear tool + alt: 축이 되는 지점을 클릭 -> 기울이기
+객체 선택 + free transform tool : 자유변형
+```
