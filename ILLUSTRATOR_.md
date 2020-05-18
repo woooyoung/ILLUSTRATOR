@@ -67,3 +67,11 @@ reflect tool + alt: 축이 되는 지점을 클릭 -> 반전
 shear tool + alt: 축이 되는 지점을 클릭 -> 기울이기
 객체 선택 + free transform tool : 자유변형
 ```
+
+### lecture 4_Color&Gradient
+```
+RGB CMYK 를 구분하자
+window -> color or swatches(new swatch:사용하는 색이나 그라디언트를 저장할 수 있다.) : 색상에 대한 패널
+window -> Gradient(ctrl+f9) :그라디언트 색상 조절(패널 안의 bar 활용하여 색상 추가,삭제 위치조절 가능) / 선형 원형 자유형 사용가능
+ctrl + shift + d : 투명배경
+```
