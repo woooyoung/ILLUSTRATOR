@@ -75,3 +75,21 @@ window -> color or swatches(new swatch:사용하는 색이나 그라디언트를
 window -> Gradient(ctrl+f9) :그라디언트 색상 조절(패널 안의 bar 활용하여 색상 추가,삭제 위치조절 가능) / 선형 원형 자유형 사용가능
 ctrl + shift + d : 투명배경
 ```
+
+### lecture 5_Arrange & Align
+```
+arrange -> 앞,뒤로 한단계 또는 맨 앞, 맨 뒤로 보낼 수 있다.
+align object -> 정렬(2개 이상의 오브젝트를 선택시 정렬 할 수 있다.)
+align to -> 선택시 아트보드와 오브젝트의 기준을 정할 수 있다.
+distribute object -> 기준을 중심으로 일정한 간격을 지정할 수 있다.
+---> ex)어플리케이션 목업 또는 단말기 표현 시 어플리케이션 정렬 또는 포스터, 메뉴판
+```
+
+### lecture 6_Pathfinder 
+```
+Pathfinder(shift+ctrl+f9):객체를 붙이거나 잘라주는 기능(두 가지 이상의 오브젝트 필요)
+자동으로 그룹화 따라서 그룹해체 후 확인 필요, 아웃라인 이용
+면과 선을 합치는 것 보다 면과 면, 선과 선이 용이하다.
+선->면 : 선을 선택하고 object에서 expand 선택
+divide: 선을 기준으로 또는 면을 기준으로 객체를 나눌 수 있다.
+```
